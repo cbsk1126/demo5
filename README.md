@@ -49,3 +49,5 @@ for (int i=0; i<10; i++) {
 
 ![자바맨소개](https://github.com/cbsk1126/demo5/blob/master/src/main/resources/static/images/1.jpg)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
