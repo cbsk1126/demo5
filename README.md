@@ -47,3 +47,5 @@ for (int i=0; i<10; i++) {
 
 [자바프로젝트](https://github.com/cbsk1126/demo5/)
 
+![자바맨소개](https://github.com/cbsk1126/demo5/blob/master/src/main/resources/static/images/1.jpg)
+
